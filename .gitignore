@@ -1,0 +1,15 @@
+*.pdf
+*.zip
+*.docx
+*.doc
+*.csv
+*.xlsx
+.idea/
+__pycache__/
+venv/
+raport1/
+raport2/
+raport3/
+raport4/
+results/
+.ipynb_checkpoints/
